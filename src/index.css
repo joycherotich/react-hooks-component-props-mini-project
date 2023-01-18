@@ -10,7 +10,7 @@ body {
   font-family: "Merriweather", "Georgia", serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: var(--bg);
+  background: purple;
   color: var(--text);
 }
 
